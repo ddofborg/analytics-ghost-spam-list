@@ -4,3 +4,4 @@ Use our [free automated ghost spam blocker](https://www.adwordsrobot.com/en/tool
 
 To help us build the largest spam database on the web, submit new domains at the page above, add an issue here or create a pull request for the list. In any case, please double check the domains.
 
+**License:** If you use this list in some form, please link to [analytics-ghost-spam-list](https://github.com/ddofborg/analytics-ghost-spam-list)-repo.
